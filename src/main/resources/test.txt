@@ -1,6 +1,2 @@
 hello-world
 第二次修改
-
-zhangsan开发了新增功能
-
-zhangsan开发了修改功能
