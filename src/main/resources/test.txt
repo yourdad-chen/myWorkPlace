@@ -5,3 +5,5 @@ hello-world
 zhangsan开发了新增功能
 
 zhangsan开发了修改功能
+
+zhangsan开发了删除功能
